@@ -1,0 +1,7 @@
+{
+  "name": "mini.fetch-pokemon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sivani <heysivani@gmail.com>",
+  "license": "MIT"
+}
