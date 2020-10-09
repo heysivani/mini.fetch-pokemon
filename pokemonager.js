@@ -21,7 +21,7 @@
           )
       }
       return Promise.all(list)
-        .then(arr => arr.filter(pokemon => pokemon.weight < weight).map(pokemon => pokemon.name))
+        .then(arr => arr.filter(pokemon => pokemon.weight < weight))
     }
   }
   window.Pokemonager = Pokemonager;
